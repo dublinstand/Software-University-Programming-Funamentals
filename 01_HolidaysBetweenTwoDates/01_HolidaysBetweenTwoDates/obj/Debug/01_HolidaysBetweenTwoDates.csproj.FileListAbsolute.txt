@@ -1,1 +1,6 @@
 D:\training\SoftUni\C#\Programming Fundamentals\01_HolidaysBetweenTwoDates\01_HolidaysBetweenTwoDates\bin\Debug\01_HolidaysBetweenTwoDates.exe.config
+D:\training\SoftUni\C#\Programming Fundamentals\01_HolidaysBetweenTwoDates\01_HolidaysBetweenTwoDates\bin\Debug\01_HolidaysBetweenTwoDates.exe
+D:\training\SoftUni\C#\Programming Fundamentals\01_HolidaysBetweenTwoDates\01_HolidaysBetweenTwoDates\bin\Debug\01_HolidaysBetweenTwoDates.pdb
+D:\training\SoftUni\C#\Programming Fundamentals\01_HolidaysBetweenTwoDates\01_HolidaysBetweenTwoDates\obj\Debug\01_HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache
+D:\training\SoftUni\C#\Programming Fundamentals\01_HolidaysBetweenTwoDates\01_HolidaysBetweenTwoDates\obj\Debug\01_HolidaysBetweenTwoDates.exe
+D:\training\SoftUni\C#\Programming Fundamentals\01_HolidaysBetweenTwoDates\01_HolidaysBetweenTwoDates\obj\Debug\01_HolidaysBetweenTwoDates.pdb
