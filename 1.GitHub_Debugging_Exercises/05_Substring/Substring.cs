@@ -15,14 +15,18 @@ public class Substring
             {
                 hasMatch = true;
 
-                int endIndex = jump;
+                int endIndex = jump + 1;
+                string matchedString;
 
-                if (endIndex > text.Length)
+                if (i + endIndex <= text.Length)
                 {
-                    endIndex = text.Length;
+                    matchedString = text.Substring(i, endIndex);
+                }
+                else
+                {
+                    matchedString = text.Substring(i);
                 }
 
-                string matchedString = text.Substring(i, endIndex);
                 Console.WriteLine(matchedString);
                 i += jump;
             }
