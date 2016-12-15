@@ -1,5 +1,8 @@
 ﻿using System;
 
+//Write a program that enters first name, last name and age and prints
+//"Hello, <first name> <last name>. You are <age> years old.". Use interpolated strings.
+
 class Greeting
 {
     static void Main()

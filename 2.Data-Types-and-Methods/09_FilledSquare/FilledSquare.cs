@@ -1,5 +1,13 @@
 ﻿using System;
 
+//Write a program to draw at the console a filled square of size n like in the examples below.
+//4	
+//--------
+//-\/\/\/-
+//-\/\/\/-
+//--------
+
+
 class FilledSquare
 {
     

@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Create a program to calculate rectangle’s perimeter, area and diagonal by given its width and height.
+
 class RectangleProperties
 {
     static void Main()

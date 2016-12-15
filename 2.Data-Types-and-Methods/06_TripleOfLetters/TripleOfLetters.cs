@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Write a program to read an integer n and print all triples of the first n small Latin letters, ordered alphabetically:
+
 class TripleOfLetters
 {
     static void Main()

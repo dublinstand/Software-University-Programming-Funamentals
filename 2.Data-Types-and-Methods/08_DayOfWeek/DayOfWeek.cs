@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Print the day name(in English) by day number in range[1...7] or print “Error” for invalid day number.
+
 class DayOfWeek
 {
     static void Main()

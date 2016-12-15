@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Write program to enter n numbers and calculate and print their exact sum(without rounding).
+
 class ExactSumOfRealNumbers
 {
     static void Main()

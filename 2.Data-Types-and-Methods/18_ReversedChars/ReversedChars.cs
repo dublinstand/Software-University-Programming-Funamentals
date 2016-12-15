@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Write a program to ask the user for 3 letters and print them in reversed order.
+
 class ReversedChars
 {
     static void Main()
