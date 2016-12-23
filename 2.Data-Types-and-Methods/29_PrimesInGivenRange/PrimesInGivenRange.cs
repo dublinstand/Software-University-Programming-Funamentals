@@ -17,7 +17,6 @@ class PrimesInGivenRange
         //    Console.Write($"{i}, ");          
 
         //}
-
     }
     private static bool isPrime(long n)
     {
@@ -33,7 +32,6 @@ class PrimesInGivenRange
                 return false;
             }
         }
-
         return true;
     }
 
@@ -52,8 +50,6 @@ class PrimesInGivenRange
 
         return numbers;
     }
-
-
 }
 
 
