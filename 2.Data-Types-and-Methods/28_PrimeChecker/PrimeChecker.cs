@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Write a Boolean method IsPrime(n) that check whether a given integer number n is prime.
+
 class PrimeChecker
 {
     static void Main()
