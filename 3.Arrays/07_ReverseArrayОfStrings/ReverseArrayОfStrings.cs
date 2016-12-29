@@ -15,4 +15,3 @@ class ReverseArrayОfStrings
         Console.WriteLine(string.Join(" ", reversedArray));
     }
 }
-
