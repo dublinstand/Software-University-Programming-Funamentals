@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_TripleSum", "05_TripleSu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_RoundingNumbersAwayFromZero", "06_RoundingNumbersAwayFromZero\06_RoundingNumbersAwayFromZero.csproj", "{9216410E-02BC-4C84-AD2E-BC1F43D6148E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ReverseArrayОfStrings", "07_ReverseArrayОfStrings\07_ReverseArrayОfStrings.csproj", "{501398C8-5FDD-4D6D-B1AB-B04E0C014684}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{9216410E-02BC-4C84-AD2E-BC1F43D6148E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9216410E-02BC-4C84-AD2E-BC1F43D6148E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9216410E-02BC-4C84-AD2E-BC1F43D6148E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501398C8-5FDD-4D6D-B1AB-B04E0C014684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501398C8-5FDD-4D6D-B1AB-B04E0C014684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501398C8-5FDD-4D6D-B1AB-B04E0C014684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501398C8-5FDD-4D6D-B1AB-B04E0C014684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
