@@ -37,21 +37,20 @@ class CompareCharArrays
                 {
                     printArrays(charTwo, charOne);
                     return;
-                }                                   
+                }
             }
         }
 
-        if (areEqual)
+
+        if (charOne.Length > charTwo.Length)
         {
-            if (charOne.Length > charTwo.Length)
-            {
-                printArrays(charTwo, charOne);
-            }
-            else
-            {
-                printArrays(charOne, charTwo);
-            }
+            printArrays(charTwo, charOne);
         }
+        else
+        {
+            printArrays(charOne, charTwo);
+        }
+
     }
 
     private static void printArrays(char[] charFirst, char[] charSecond)
