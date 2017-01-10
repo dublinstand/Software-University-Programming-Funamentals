@@ -17,8 +17,6 @@ class CompareCharArrays
 
         int minLength = Math.Min(charOneLength, charTwoLength);
 
-        Boolean areEqual = true;
-
         for (int i = 0; i < minLength; i++)
         {
             if (charOne[i] == charTwo[i])
