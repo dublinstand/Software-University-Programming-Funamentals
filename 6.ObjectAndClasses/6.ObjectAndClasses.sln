@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DayOfWeek", "01_DayOfWee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_RandomizeWords", "02_RandomizeWords\02_RandomizeWords.csproj", "{79631681-6C0B-4892-9068-F7A34F7F7EBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_BigFactorial", "03_BigFactorial\03_BigFactorial.csproj", "{14E3730A-D742-4394-B8E5-039013325A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_DistanceBetweenPoints", "04_DistanceBetweenPoints\04_DistanceBetweenPoints.csproj", "{254F6D61-FBE4-4D07-A818-A49E51D667F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{79631681-6C0B-4892-9068-F7A34F7F7EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79631681-6C0B-4892-9068-F7A34F7F7EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79631681-6C0B-4892-9068-F7A34F7F7EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E3730A-D742-4394-B8E5-039013325A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E3730A-D742-4394-B8E5-039013325A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E3730A-D742-4394-B8E5-039013325A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E3730A-D742-4394-B8E5-039013325A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254F6D61-FBE4-4D07-A818-A49E51D667F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254F6D61-FBE4-4D07-A818-A49E51D667F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254F6D61-FBE4-4D07-A818-A49E51D667F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254F6D61-FBE4-4D07-A818-A49E51D667F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
