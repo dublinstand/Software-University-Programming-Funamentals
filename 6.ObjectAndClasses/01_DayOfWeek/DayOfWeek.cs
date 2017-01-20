@@ -2,6 +2,8 @@
 using System.Globalization;
 using System.Linq;
 
+//You are given a date in format day-month-year.Calculate and print the day of week in English.
+
 class DayOfWeek
 {
     static void Main()

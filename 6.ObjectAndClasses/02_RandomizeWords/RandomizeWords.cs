@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Linq;
 
+//You are given a list of words in one line.Randomize their order and print each word at a separate line.
+
 class RandomizeWords
 {
     static void Main()
