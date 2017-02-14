@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F434654D-4D42-488A-ABA5-EDB925B71668}</ProjectGuid>
+    <ProjectGuid>{02FFE2FE-D4FC-47CA-99D0-EBA33D910D4B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_08_BuildMatrixOfLetters</RootNamespace>
-    <AssemblyName>08_BuildMatrixOfLetters</AssemblyName>
+    <RootNamespace>_09_RotateMatrix</RootNamespace>
+    <AssemblyName>09_RotateMatrix</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BuildMatrixOfLetters.cs" />
+    <Compile Include="RotateMatrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
