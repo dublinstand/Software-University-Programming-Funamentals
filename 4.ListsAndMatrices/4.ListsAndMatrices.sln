@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_BuildMatrixOfLetters", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_RotateMatrix", "09_RotateMatrix\09_RotateMatrix.csproj", "{02FFE2FE-D4FC-47CA-99D0-EBA33D910D4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_MaxSequenceOfEqualElements", "10_MaxSequenceOfEqualElements\10_MaxSequenceOfEqualElements.csproj", "{1FD4A5A7-7536-46D5-A3EF-9F6F40542D50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{02FFE2FE-D4FC-47CA-99D0-EBA33D910D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02FFE2FE-D4FC-47CA-99D0-EBA33D910D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02FFE2FE-D4FC-47CA-99D0-EBA33D910D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD4A5A7-7536-46D5-A3EF-9F6F40542D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD4A5A7-7536-46D5-A3EF-9F6F40542D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD4A5A7-7536-46D5-A3EF-9F6F40542D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD4A5A7-7536-46D5-A3EF-9F6F40542D50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
