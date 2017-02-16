@@ -40,7 +40,7 @@ class MaxSequenceOfEqualElements
             }
         }
 
-        for (int i = 0; i <= bestLength; i++)
+        for (int i = 0; i < bestLength; i++)
         {
             Console.Write($"{num} ");
         }
