@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_MaxPlatform3x3", "13_Max
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_ArrayManipulator", "14_ArrayManipulator\14_ArrayManipulator.csproj", "{6A0750BC-97F2-414B-99C8-0607D2950078}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_SumReversedNumbers", "15_SumReversedNumbers\15_SumReversedNumbers.csproj", "{31BCF79A-0631-498B-A6D4-F926A9A673D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_BombNumbers", "16_BombNumbers\16_BombNumbers.csproj", "{0D339098-80A3-43DD-BA3B-B4AF0997AB6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{6A0750BC-97F2-414B-99C8-0607D2950078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A0750BC-97F2-414B-99C8-0607D2950078}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A0750BC-97F2-414B-99C8-0607D2950078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31BCF79A-0631-498B-A6D4-F926A9A673D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BCF79A-0631-498B-A6D4-F926A9A673D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BCF79A-0631-498B-A6D4-F926A9A673D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BCF79A-0631-498B-A6D4-F926A9A673D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D339098-80A3-43DD-BA3B-B4AF0997AB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D339098-80A3-43DD-BA3B-B4AF0997AB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D339098-80A3-43DD-BA3B-B4AF0997AB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D339098-80A3-43DD-BA3B-B4AF0997AB6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
