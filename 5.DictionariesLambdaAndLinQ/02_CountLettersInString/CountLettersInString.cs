@@ -9,13 +9,11 @@ class CountLettersInString
     static void Main()
     {
         string words = Console.ReadLine().ToLower();
-
         int[] counts = new int[words.Max() + 1];
 
         foreach (char ch in words)
         {
             counts[ch]++;
-
         }
 
         for (char ch = (char)0; ch < counts.Length; ch++)
@@ -24,7 +22,6 @@ class CountLettersInString
             {
                 Console.WriteLine("{0} -> {1}", ch, counts[ch]);
             }
-
         }
     }
 }
